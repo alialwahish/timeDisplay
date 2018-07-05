@@ -1,0 +1,11 @@
+/home/ali/codingDojo/c#/TimeDisp/bin/Debug/netcoreapp2.0/TimeDisp.deps.json
+/home/ali/codingDojo/c#/TimeDisp/bin/Debug/netcoreapp2.0/TimeDisp.runtimeconfig.json
+/home/ali/codingDojo/c#/TimeDisp/bin/Debug/netcoreapp2.0/TimeDisp.runtimeconfig.dev.json
+/home/ali/codingDojo/c#/TimeDisp/bin/Debug/netcoreapp2.0/TimeDisp.dll
+/home/ali/codingDojo/c#/TimeDisp/bin/Debug/netcoreapp2.0/TimeDisp.pdb
+/home/ali/codingDojo/c#/TimeDisp/obj/Debug/netcoreapp2.0/TimeDisp.csprojResolveAssemblyReference.cache
+/home/ali/codingDojo/c#/TimeDisp/obj/Debug/netcoreapp2.0/TimeDisp.csproj.CoreCompileInputs.cache
+/home/ali/codingDojo/c#/TimeDisp/obj/Debug/netcoreapp2.0/TimeDisp.AssemblyInfoInputs.cache
+/home/ali/codingDojo/c#/TimeDisp/obj/Debug/netcoreapp2.0/TimeDisp.AssemblyInfo.cs
+/home/ali/codingDojo/c#/TimeDisp/obj/Debug/netcoreapp2.0/TimeDisp.dll
+/home/ali/codingDojo/c#/TimeDisp/obj/Debug/netcoreapp2.0/TimeDisp.pdb
